@@ -23,3 +23,5 @@ Planned features are:
 	 -Conditional formatting based on submittal status
  
  	 -Automated downloading of all submittal attachments into seperated folders
+	 
+	 -Increasing security (probably not the best to have user/password in plaintext in both a hidden sheet and as strings in the master module
